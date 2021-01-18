@@ -1,0 +1,9 @@
+[package]
+name = "dp_hotel"
+version = "0.1.0"
+authors = ["Drock00 <private@private.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
